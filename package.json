@@ -15,10 +15,10 @@
     "cors": "^2.8.5",
     "express": "^4.21.1",
     "fs-extra": "^11.2.0",
+    "html-pdf-node": "^1.0.8",
     "install": "^0.13.0",
     "lighthouse": "^12.2.1",
-    "pdfkit": "^0.15.0",
-    "puppeteer": "^23.5.3"
+    "pdfkit": "^0.15.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
